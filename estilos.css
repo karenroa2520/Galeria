@@ -7,7 +7,7 @@
 /* Estilos para el cuerpo de la página */
 body {
   /* Establece la imagen de fondo */
-  background-image: url(background-2400765_1280.jpg);
+  background-image: url(Imagenes/background-2400765_1280.jpg);
   /* Centra la posición de la imagen de fondo */
   background-position: center;
   /* Ajusta el tamaño de la imagen de fondo para cubrir el contenedor */
@@ -150,7 +150,7 @@ main {
 
 /* Estilos específicos para la tarjeta con ID "tarjeta6" */
 #tarjeta6 {
-  /* Aplica un gradiente lineal como fondo */sss
+  /* Aplica un gradiente lineal como fondo */
   background: linear-gradient(135deg, rgb(255, 0, 170), rgb(255, 212, 131));
   /* Establece un color de borde usando RGB */
   border-color: rgb(196, 52, 27);
